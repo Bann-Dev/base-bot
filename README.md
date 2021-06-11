@@ -30,7 +30,7 @@ Les seuls modules demandés sont:
 > discord.js\
 > fs
 
-## 💭 Expliquations <a name = "working"></a>
+## 💭 Explications <a name = "working"></a>
 
 Voici la seule manière d'installer les modules:
 ```bash
