@@ -7,7 +7,7 @@ module.exports = async (client, message) =>
 
   const args = message.content.trim().split(/ +/g)
   const commandName = args.shift().toLowerCase()
-  const command = client.commands.get(commandName.slice(prefix.length)) || client.commands.find(cmd => cmd.help?.aliases ? cmd.help?.aliases.includes(commandName.slice(prefix.length)) : null)
+  const command = client.commands.get(commandName.slice(prefix.length))
   
   if (!commandName.startsWith(prefix)) return
   if (command) command.run(message, args, client, config, db)
