@@ -23,6 +23,7 @@
 ## 🧐 Informations <a name = "about"></a>
 
 Cette base de bot contient tout ce qu'il vous faut pour débuter un projet facilement !
+Vous pouvez faire des sous-dossiers infinis pour les commandes **seulement**.
 
 Les seuls modules demandés sont:
 
