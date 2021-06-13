@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Support](https://img.shields.io/static/v1?label=Support&message=Actif&color=vert)](https://discord.gg/hBehs3HzPx)
-[![Discord](https://img.shields.io/discord/832296913695932428?label=Discord)](https://discord.gg/hBehs3HzPx)
+[![Discord](https://img.shields.io/discord/851029612666552320?label=Discord)](https://discord.gg/hBehs3HzPx)
 
 </div>
 
