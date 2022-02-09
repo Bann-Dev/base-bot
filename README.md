@@ -51,4 +51,4 @@ La seule commande existante est:
 
 ## ✍️ Auteur <a name = "authors"></a>
 
-- [@Shall](https://github.com/mxliodas)
+- [@sxwny](https://github.com/Bann-Dev)
